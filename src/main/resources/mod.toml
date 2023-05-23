@@ -1,0 +1,12 @@
+name = "Garden"
+id = "garden"
+description = "Discord integration for Rosepad"
+author = "buj"
+version = "0.0.0"
+url = "https://github.com/5GameMaker"
+
+[main]
+both = "net.buj.garden.Garden"
+
+[dependencies]
+minecraft = "1.1.0.7-dev"
