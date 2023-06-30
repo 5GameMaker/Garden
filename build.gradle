@@ -16,7 +16,7 @@ repositories {
 }
 
 dependencies {
-    shadow 'com.github.RosepadMC:RML:-SNAPSHOT'
+    shadow 'com.github.RosepadMC:RML:e1d35df05e'
     implementation 'com.discord4j:discord4j-core:3.2.4'
     implementation 'com.moandjiezana.toml:toml4j:0.7.2'
 }
